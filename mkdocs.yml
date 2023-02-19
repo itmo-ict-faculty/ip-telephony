@@ -1,6 +1,6 @@
 site_name: Network-programming
 repo_name: 'itmo-ict-faculty'
-repo_url: 'https://github.com/itmo-ict-faculty/network-programming'
+repo_url: 'https://github.com/itmo-ict-faculty/ip-telephony'
 theme:
   name: material
   palette:
